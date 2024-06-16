@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "pthread.h": "c",
+        "stdio.h": "c",
+        "types.h": "c",
+        "unistd.h": "c",
+        "semaphore.h": "c",
+        "reservas.h": "c",
+        "stdbool.h": "c",
+        "msg.h": "c",
+        "wait.h": "c",
+        "errno.h": "c"
+    }
+}
